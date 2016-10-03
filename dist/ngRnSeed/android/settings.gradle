@@ -1,0 +1,3 @@
+rootProject.name = 'ngRnSeed'
+
+include ':app'

@@ -1,7 +1,9 @@
 {
   "globalDependencies": {
+    "es6-shim": "github:DefinitelyTyped/DefinitelyTyped/es6-shim/es6-shim.d.ts#4de74cb527395c13ba20b438c3a7a419ad931f1c",
     "core-js": "registry:dt/core-js#0.0.0+20160725163759",
     "jasmine": "registry:dt/jasmine#2.2.0+20160621224255",
-    "node": "registry:dt/node#6.0.0+20160909174046"
+    "node": "registry:dt/node#6.0.0+20160909174046",
+    "react-native": "github:DefinitelyTyped/DefinitelyTyped/react-native/react-native.d.ts#52270b07349ce82b720c9e79a0dfb992dc89c1d8"
   }
 }
